@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/weeghman/claude-code-launcher-appcast/releases/tag/v1.4.0",
-  "downloadURL": "https://github.com/weeghman/claude-code-launcher-appcast/releases/download/v1.4.0/claude-code-launcher-1.4.0.zip",
-  "sha256": "fdcb20c40e95108ec115d365d3b77246fe58f6a465ff9f84b0fbbd58f915e988",
+  "version": "1.5.0",
+  "url": "https://github.com/weeghman/claude-code-launcher-appcast/releases/tag/v1.5.0",
+  "downloadURL": "https://github.com/weeghman/claude-code-launcher-appcast/releases/download/v1.5.0/claude-code-launcher-1.5.0.zip",
+  "sha256": "5efd5c3dcd3e126c4324f5bb0a278193bebbadd471c37fc5079bd70d5e1d9f9c",
   "minimumSystemVersion": "11.0"
 }
